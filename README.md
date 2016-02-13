@@ -1,3 +1,3 @@
-# zenstorelocator.github.io
+# zenlocator.github.io
 
-Demo repository for [Zen Store Locator](https://zenstorelocator.com).
+Demo repository for [ZenLocator](https://zenlocator.com).
